@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyrusItah
-- 👀 I’m interested in Coding and building unique solutions to Modern day problems through Software.
-- 🌱 I’m currently learning Software Engineering @ ALX
+- 👀 I’m interested in Data Analytics & Data Science, Coding and building unique solutions to modern-day problems through Software.
+- 🌱 I’m currently learning Data Analytics: Python, SQL, Tableau & Power BI
 - 💞️ I’m looking to collaborate on (T.B.C)
 - 📫 How to reach me - cyrus.itah@gmail.com
 
